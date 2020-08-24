@@ -1,0 +1,29 @@
+# [Main](README.md) | Mac Apps
+
+- ApplePiBaker
+- Audacity
+- Bartender 3
+- Caffeine
+- Comparemerge
+- Deploymate
+- Dev Cleaner
+- Euclid
+- FreeDiskSpace
+- Gimp
+- hexColor
+- iTerm
+- Krita
+- LICEcap
+- Meld
+- Memory Diag
+- Open Office
+- PaintCode
+- Pixelmator
+- SimSim
+- Skitch
+- Spectacle
+- SQLPro for SQLite
+- Sublime Text 2
+- SwiftFormat for Xcode
+- Virtual Box
+- Visual Studio Code
