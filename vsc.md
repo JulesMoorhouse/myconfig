@@ -25,7 +25,7 @@
     - Markdown PDF - yzane
     - Markdown Preview Github Styling - Mat Bierner
     - Markdown Shortcuts - mdickin
-    - Markdown Table Prettifier - Krisztian Daroczi
+    - Markdown Table Pret[]tifier - Krisztian Daroczi
     - Markdown TOC - AlanWalk
     - Markdown+Math - goessner
     - Path Autocomplete - Miha Vilcu

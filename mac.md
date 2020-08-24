@@ -12,3 +12,9 @@
 ![](gfx/Trackpad_point.png)
 ![](gfx/Trackpad_scroll.png)
 ![](gfx/Trackpad_more.png)
+
+## Display
+![](gfx/Built-in_Retina_Display.png)
+
+## Mission Control
+![](gfx/Mission_Control.png)
