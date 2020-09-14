@@ -4,6 +4,7 @@
 
 - C# - Microsoft
 - Code Spell Checker - Street Side Software
+- Diff - FabioSpampinato
 - Dracula Official - Dracula Theme
 - Duplicate action - mrmlnc
 - English (United Kingdom) - Microsoft
