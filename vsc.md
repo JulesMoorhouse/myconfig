@@ -30,7 +30,7 @@
     - Markdown TOC - AlanWalk
     - Markdown+Math - goessner
     - Path Autocomplete - Miha Vilcu
-- markdownlint - Dark Anson
+- Markdownlint - Dark Anson
 - One Monokai Theme - Joshua Azemoh
 - Open in Github, Bitbucket, Gitlab, VisualStudio.com - ziyasal
 - Project Manager - Alessandro Fragnani
